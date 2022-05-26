@@ -1,1 +1,1 @@
-Task to Display current directory contents in a long format
+Task to Display current directory contents, including hidden files (starting with .). Use the long format
