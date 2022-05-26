@@ -1,1 +1,1 @@
-Task to Display current directory contents, including hidden files (starting with .). Use the long format
+Task to Display current directory contents
