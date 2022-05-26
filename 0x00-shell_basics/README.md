@@ -1,1 +1,1 @@
-Script that prints absolute path name of folder
+Task to display the contents of 0x00-shell_basics
