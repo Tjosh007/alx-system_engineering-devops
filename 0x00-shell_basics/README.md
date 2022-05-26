@@ -1,1 +1,1 @@
-Task to display the contents of 0x00-shell_basics
+Task on  script that changes the working directory to the user’s home directory
