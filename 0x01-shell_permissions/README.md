@@ -1,1 +1,1 @@
-Task to Write a script that sets the permission to the file hello according to given instructions
+Task to Write a script that sets the mode of the file hello
