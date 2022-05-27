@@ -1,1 +1,1 @@
-Task to Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+Task to Write a script that sets the permission to the file hello according to given instructions
